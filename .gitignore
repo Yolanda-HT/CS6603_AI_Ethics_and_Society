@@ -1,0 +1,7 @@
+# Ignore homework solution related files
+Tricky_questions.md
+/0_Assignments/*
+/0_Quizzes/*
+
+*DS_Store
+~$*
